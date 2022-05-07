@@ -1,0 +1,13 @@
+{
+  "name": "com.framari.wbdicontainer",
+  "version": "1.0.0",
+  "displayName": "WBDiContainer",
+  "description": "original di container",
+  "unity": "2021.3",
+  "dependencies": {},
+  "license": "MIT",
+  "author": {
+    "name": "framari",
+    "email": "mirochacha_u_u_1106@yahoo.co.jp",
+  }
+}
